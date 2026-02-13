@@ -1,0 +1,12 @@
+{
+  "name": "notification",
+  "description": "It shows a toast notification when waiting for the user's response or when a task has been completed. Windows only.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Gukhyeon Ryu",
+    "email": "rgh4806@gmail.com",
+    "url": "https://github.com/rgh4806"
+  },
+  "homepage": "https://github.com/rgh4806/gryux.claude.market/blob/main/plugins/notification/README.md",
+  "repository": "https://github.com/rgh4806/gryux.claude.market/blob/main/plugins/notification"
+}
