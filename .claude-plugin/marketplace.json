@@ -60,6 +60,20 @@
       "repository": "https://github.com/Rukebox/claude.market/blob/main/plugins/smart-git",
       "source": "./plugins/smart-git",
       "category": "productivity"
+    },
+    {
+      "name": "no-nul",
+      "description": "It will no longer create a nul file.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Gukhyeon Ryu",
+        "email": "rgh4806@gmail.com",
+        "url": "https://github.com/rgh4806"
+      },
+      "homepage": "https://github.com/Rukebox/claude.market/blob/main/plugins/no-nul/README.md",
+      "repository": "https://github.com/Rukebox/claude.market/blob/main/plugins/no-nul",
+      "source": "./plugins/no-nul",
+      "category": "productivity"
     }
   ]
 }
