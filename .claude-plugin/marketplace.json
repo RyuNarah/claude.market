@@ -76,6 +76,20 @@
       "category": "productivity"
     },
     {
+      "name": "atlassian",
+      "description": "Set up the environment for using Atlassian.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Gukhyeon Ryu",
+        "email": "rgh4806@gmail.com",
+        "url": "https://github.com/rgh4806"
+      },
+      "homepage": "https://github.com/Rukebox/claude.market/blob/main/plugins/atlassian/README.md",
+      "repository": "https://github.com/Rukebox/claude.market/blob/main/plugins/atlassian",
+      "source": "./plugins/atlassian",
+      "category": "productivity"
+    },
+    {
       "name": "no-nul",
       "description": "It will no longer create a nul file.",
       "version": "1.0.0",
