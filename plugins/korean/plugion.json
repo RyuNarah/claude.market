@@ -1,0 +1,12 @@
+{
+  "name": "korean",
+  "description": "It indicates that the user is Korean. The answer will be provided in Korean.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Gukhyeon Ryu",
+    "email": "rgh4806@gmail.com",
+    "url": "https://github.com/rgh4806"
+  },
+  "homepage": "https://github.com/Rukebox/claude.market/blob/main/plugins/korean/README.md",
+  "repository": "https://github.com/Rukebox/claude.market/blob/main/plugins/korean"
+}

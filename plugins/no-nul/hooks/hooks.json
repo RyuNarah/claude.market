@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "${CLAUDE_PLUGIN_ROOT}/hooks/inject_context.sh ${CLAUDE_PLUGIN_ROOT}/hooks/contexts no-nul"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "notify-await",
+  "description": "It shows a toast notification when waiting for the user's response. Windows only.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Gukhyeon Ryu",
+    "email": "rgh4806@gmail.com",
+    "url": "https://github.com/rgh4806"
+  },
+  "homepage": "https://github.com/Rukebox/claude.market/blob/main/plugins/notify-await/README.md",
+  "repository": "https://github.com/Rukebox/claude.market/blob/main/plugins/notify-await"
+}
