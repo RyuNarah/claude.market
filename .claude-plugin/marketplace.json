@@ -1,5 +1,5 @@
 {
-  "name": "rukebox-market",
+  "name": "RuyNarah-market",
   "owner": {
     "name": "Gukhyeon Ryu",
     "email": "rgh4806@gmail.com"
@@ -14,8 +14,8 @@
         "email": "rgh4806@gmail.com",
         "url": "https://github.com/rgh4806"
       },
-      "homepage": "https://github.com/Rukebox/claude.market/blob/main/plugins/dev-common/README.md",
-      "repository": "https://github.com/Rukebox/claude.market/blob/main/plugins/dev-common",
+      "homepage": "https://github.com/RuyNarah/claude.market/blob/main/plugins/dev-common/README.md",
+      "repository": "https://github.com/RuyNarah/claude.market/blob/main/plugins/dev-common",
       "source": "./plugins/dev-common",
       "category": "development"
     },
@@ -28,8 +28,8 @@
         "email": "rgh4806@gmail.com",
         "url": "https://github.com/rgh4806"
       },
-      "homepage": "https://github.com/Rukebox/claude.market/blob/main/plugins/dev-csharp/README.md",
-      "repository": "https://github.com/Rukebox/claude.market/blob/main/plugins/dev-csharp",
+      "homepage": "https://github.com/RuyNarah/claude.market/blob/main/plugins/dev-csharp/README.md",
+      "repository": "https://github.com/RuyNarah/claude.market/blob/main/plugins/dev-csharp",
       "source": "./plugins/dev-csharp",
       "category": "development"
     },
@@ -42,8 +42,8 @@
         "email": "rgh4806@gmail.com",
         "url": "https://github.com/rgh4806"
       },
-      "homepage": "https://github.com/Rukebox/claude.market/blob/main/plugins/notify-await/README.md",
-      "repository": "https://github.com/Rukebox/claude.market/blob/main/plugins/notify-await",
+      "homepage": "https://github.com/RuyNarah/claude.market/blob/main/plugins/notify-await/README.md",
+      "repository": "https://github.com/RuyNarah/claude.market/blob/main/plugins/notify-await",
       "source": "./plugins/notify-await",
       "category": "productivity"
     },
@@ -56,8 +56,8 @@
         "email": "rgh4806@gmail.com",
         "url": "https://github.com/rgh4806"
       },
-      "homepage": "https://github.com/Rukebox/claude.market/blob/main/plugins/notify-done/README.md",
-      "repository": "https://github.com/Rukebox/claude.market/blob/main/plugins/notify-done",
+      "homepage": "https://github.com/RuyNarah/claude.market/blob/main/plugins/notify-done/README.md",
+      "repository": "https://github.com/RuyNarah/claude.market/blob/main/plugins/notify-done",
       "source": "./plugins/notify-done",
       "category": "productivity"
     },
@@ -70,8 +70,8 @@
         "email": "rgh4806@gmail.com",
         "url": "https://github.com/rgh4806"
       },
-      "homepage": "https://github.com/Rukebox/claude.market/blob/main/plugins/smart-git/README.md",
-      "repository": "https://github.com/Rukebox/claude.market/blob/main/plugins/smart-git",
+      "homepage": "https://github.com/RuyNarah/claude.market/blob/main/plugins/smart-git/README.md",
+      "repository": "https://github.com/RuyNarah/claude.market/blob/main/plugins/smart-git",
       "source": "./plugins/smart-git",
       "category": "productivity"
     },
@@ -84,8 +84,8 @@
         "email": "rgh4806@gmail.com",
         "url": "https://github.com/rgh4806"
       },
-      "homepage": "https://github.com/Rukebox/claude.market/blob/main/plugins/atlassian/README.md",
-      "repository": "https://github.com/Rukebox/claude.market/blob/main/plugins/atlassian",
+      "homepage": "https://github.com/RuyNarah/claude.market/blob/main/plugins/atlassian/README.md",
+      "repository": "https://github.com/RuyNarah/claude.market/blob/main/plugins/atlassian",
       "source": "./plugins/atlassian",
       "category": "productivity"
     },
@@ -98,8 +98,8 @@
         "email": "rgh4806@gmail.com",
         "url": "https://github.com/rgh4806"
       },
-      "homepage": "https://github.com/Rukebox/claude.market/blob/main/plugins/no-nul/README.md",
-      "repository": "https://github.com/Rukebox/claude.market/blob/main/plugins/no-nul",
+      "homepage": "https://github.com/RuyNarah/claude.market/blob/main/plugins/no-nul/README.md",
+      "repository": "https://github.com/RuyNarah/claude.market/blob/main/plugins/no-nul",
       "source": "./plugins/no-nul",
       "category": "productivity"
     },
@@ -112,8 +112,8 @@
         "email": "rgh4806@gmail.com",
         "url": "https://github.com/rgh4806"
       },
-      "homepage": "https://github.com/Rukebox/claude.market/blob/main/plugins/korean/README.md",
-      "repository": "https://github.com/Rukebox/claude.market/blob/main/plugins/korean",
+      "homepage": "https://github.com/RuyNarah/claude.market/blob/main/plugins/korean/README.md",
+      "repository": "https://github.com/RuyNarah/claude.market/blob/main/plugins/korean",
       "source": "./plugins/korean",
       "category": "productivity"
     }

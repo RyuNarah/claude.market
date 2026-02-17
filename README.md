@@ -1,9 +1,9 @@
-# RukeBox Claude Market
+# RuyNarah Market
 ## Installation
 1. Claude에서 `/plugin`을 입력하세요.
 2. 화살표를 사용해 `Marketplaces`로 이동하세요.
 3. `Add Marketplace`에서 `Enter`를 입력하세요.
-4. `Rukebox/claude.market`을 입력 후 `Enter`를 입력하세요.
+4. `RuyNarah/claude.market`을 입력 후 `Enter`를 입력하세요.
 
 ## Plugins
 ### Development
