@@ -34,6 +34,20 @@
       "category": "development"
     },
     {
+      "name": "test-creator",
+      "description": "Provides the skills needed to write tests.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Gukhyeon Ryu",
+        "email": "rgh4806@gmail.com",
+        "url": "https://github.com/rgh4806"
+      },
+      "homepage": "https://github.com/RuyNarah/claude.market/blob/main/plugins/test-creator/README.md",
+      "repository": "https://github.com/RuyNarah/claude.market/blob/main/plugins/test-creator",
+      "source": "./plugins/test-creator",
+      "category": "development"
+    },
+    {
       "name": "notify-await",
       "description": "It shows a toast notification when waiting for the user's response. Windows only.",
       "version": "1.0.1",

@@ -14,5 +14,5 @@ Branch 정보를 정해진 형식으로 표시합니다.
 Commit Hash를 앞 7자만 표시합니다.
 
 ## Commands
-###  `/git:review`
+### `/git:review`
 현재 Branch의 작업 내용을 Review 합니다. 적절한 Agent나 Skill이 있다면 사용합니다.
