@@ -92,7 +92,7 @@
     {
       "name": "atlassian",
       "description": "Set up the environment for using Atlassian.",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": {
         "name": "Gukhyeon Ryu",
         "email": "rgh4806@gmail.com",
